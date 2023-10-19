@@ -41,4 +41,8 @@ You can compile and run this C program in a C development environment, keeping i
 ![Screenshot 2023-10-19 135428](https://github.com/Biswadev9/project/assets/143692628/9447e322-17cf-4003-a056-48a587eed2e6)
 ![Screenshot 2023-10-19 135212](https://github.com/Biswadev9/project/assets/143692628/c0dcdef0-a7a1-49bd-a859-34f370669866)
 ![Screenshot 2023-10-19 140449](https://github.com/Biswadev9/project/assets/143692628/22f8d489-2b27-41c5-8887-48351b7e8150)
+
 To run this project you need codeblocks or VS code else you can not see the color effect implemented on console and mingw(compiler and debugger) beside you have to install gcc in the command prompt. you can also check if gcc is installed in your pc by gcc --version command.
+
+"Please write a brief message if you think I need to make any changes."
+Email: biswadev.cse9.bu@gmail.com
